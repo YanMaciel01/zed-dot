@@ -1,0 +1,5 @@
+name = "Dot"
+grammar = "dot"
+path_suffixes = ["dot"]
+line_comments = ["// "]
+tab_size = 4
